@@ -26,5 +26,7 @@ tiene el menú principal para navegar la tienda virtual.
 
 
 Sara Gabriela Ángel Pinzón | saragap
+
 Programación avanzada Grupo 1
+
 Proyecto Corte 2
